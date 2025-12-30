@@ -1,0 +1,9 @@
+{
+	"name": "datacorecenginedl",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6c44590c-8091-4e15-aa77-3b3e1d5a0861",
+		"tenantId": "a2e466aa-4f86-4545-b5b8-97da7c8febf3"
+	}
+}
